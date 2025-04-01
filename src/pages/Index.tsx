@@ -9,7 +9,6 @@ import TestimonialsSection from "../components/TestimonialsSection";
 import PricingSection from "../components/PricingSection";
 import Footer from "../components/Footer";
 import ScrollToTop from "../components/ScrollToTop";
-import { Button } from "@/components/ui/button";
 import { useToast } from "@/hooks/use-toast";
 
 const Index = () => {
