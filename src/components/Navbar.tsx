@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Menu } from "lucide-react";
@@ -34,7 +33,7 @@ const Navbar: React.FC = () => {
             <span className="bg-gradient-to-r from-webvision-blue to-webvision-purple text-transparent bg-clip-text font-bold text-2xl">
               WebVision
             </span>
-            <span className="text-webvision-blue font-bold text-2xl">AI</span>
+            <span className="text-webvision-blue font-bold text-2xl">.Ai</span>
           </a>
         </div>
 

@@ -1,4 +1,3 @@
-
 import React from "react";
 import { Facebook, Twitter, Instagram, Linkedin, Github } from "lucide-react";
 
@@ -14,7 +13,7 @@ const Footer = () => {
               <span className="bg-gradient-to-r from-webvision-blue to-webvision-purple text-transparent bg-clip-text font-bold text-2xl">
                 WebVision
               </span>
-              <span className="text-webvision-blue font-bold text-2xl">AI</span>
+              <span className="text-webvision-blue font-bold text-2xl">.Ai</span>
             </a>
             <p className="mt-4 text-gray-400">
               AI-powered website analysis and optimization tool that helps you improve your web presence.
@@ -92,7 +91,7 @@ const Footer = () => {
         
         <div className="mt-12 pt-8 border-t border-gray-800">
           <p className="text-center text-gray-500">
-            &copy; {currentYear} WebVision AI. All rights reserved.
+            &copy; {currentYear} WebVision.Ai. All rights reserved.
           </p>
         </div>
       </div>

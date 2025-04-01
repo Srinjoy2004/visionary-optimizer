@@ -18,7 +18,7 @@ const Index = () => {
     // Show welcome toast when page loads
     setTimeout(() => {
       toast({
-        title: "Welcome to WebVision AI",
+        title: "Welcome to WebVision.Ai",
         description: "Explore our AI-powered website analysis tool",
         duration: 5000,
       });
